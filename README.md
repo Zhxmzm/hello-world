@@ -1,6 +1,17 @@
 # hello-world
 First repository
 
+<table>
+<tr>
+<td bgcolor=#7FFFD4>
+		支持以下币种：
+		其中
+		会自动
+		创建ETH
+</td>
+</tr>
+</table>
+
 <table width="100%">
    <tr>
       <td width="15%">参数</td>
