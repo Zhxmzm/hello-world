@@ -3,12 +3,7 @@ First repository
 
 <table>
 <tr>
-<td bgcolor="#7FFFD4">
-		支持以下币种：
-		其中
-		会自动
-		创建ETH
-</td>
+<td bgcolor="#7FFFD4">支持以下币种：</td>
 </tr>
 </table>
 
