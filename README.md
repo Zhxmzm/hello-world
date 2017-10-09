@@ -3,7 +3,7 @@ First repository
 
 <table>
 <tr>
-<td bgcolor=#7FFFD4>
+<td bgcolor="#7FFFD4">
 		支持以下币种：
 		其中
 		会自动
